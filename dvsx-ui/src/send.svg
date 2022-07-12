@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96" viewBox="0 0 96 96">
+  <defs>
+    <filter id="Area_DISPLAY_ELEMENTS:Icon_SIZE:MEDIUM_STATE:DEFAULT_STYLE:STYLE1_" x="0" y="0" width="96" height="96" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-color="#34ffc8" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Button_" data-name="Button " transform="translate(24 16)">
+    <g transform="matrix(1, 0, 0, 1, -24, -16)" filter="url(#Area_DISPLAY_ELEMENTS:Icon_SIZE:MEDIUM_STATE:DEFAULT_STYLE:STYLE1_)">
+      <rect id="Area_DISPLAY_ELEMENTS:Icon_SIZE:MEDIUM_STATE:DEFAULT_STYLE:STYLE1_2" data-name="Area [DISPLAY_ELEMENTS:Icon][SIZE:MEDIUM][STATE:DEFAULT][STYLE:STYLE1]" width="48" height="48" rx="24" transform="translate(24 16)" fill="#ffd432"/>
+    </g>
+    <g id="Icon_" data-name="Icon " transform="translate(14 14)">
+      <rect id="Area_DISPLAY_ELEMENTS:Icon_ICON:feather_send_SIZE:MEDIUM_STATE:DEFAULT_STYLE:STYLE1_" data-name="Area [DISPLAY_ELEMENTS:Icon][ICON:feather/send][SIZE:MEDIUM][STATE:DEFAULT][STYLE:STYLE1]" width="20" height="20" fill="#fcfcfc" opacity="0"/>
+      <g id="Icon" transform="translate(-1 -1)">
+        <line id="Line" x1="9.167" y2="9.167" transform="translate(10.167 2.667)" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.667"/>
+        <path id="Path" d="M18.333,1.667,12.5,18.333l-3.333-7.5L1.667,7.5Z" transform="translate(1 1)" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.667"/>
+      </g>
+    </g>
+  </g>
+</svg> 

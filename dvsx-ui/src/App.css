@@ -1,0 +1,30 @@
+.container-1{
+    width: 100%;
+    background: #8faae3;
+}
+.first-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.second-div{
+    width: 48%
+}
+.div2{
+    text-align: center;
+}
+.cont-1{
+    width: 45%;
+}
+.cont-2{
+    width: 45%;
+}
+.buttons{
+    width: 60%;
+    margin: auto;
+}
+.buttons Button{
+    background-color: black;
+    margin: 10px;
+}
