@@ -2,6 +2,10 @@
     width: 100%;
     background: #8faae3;
 }
+.container-2{
+    width: 100%;
+
+}
 .first-div{
     display: flex;
     justify-content: center;
@@ -27,4 +31,18 @@
 .buttons Button{
     background-color: black;
     margin: 10px;
+}
+.cont2{
+    display: flex;
+    justify-content: center;
+    aligh-items: center;
+}
+.cont2-div1{
+    width:45%;
+}
+.subscribe{
+    width:45%;
+}
+.subscribe CloseIcon{
+    float: right;
 }
